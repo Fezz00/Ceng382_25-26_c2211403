@@ -30,9 +30,9 @@
     <div class="full-screen" id="left-full">
         <div class="login-form">
             <h2>Login as Jedi</h2>
-            <input type="text" placeholder="Username">
-            <input type="password" placeholder="Password">
-            <button>Login</button>
+            <input id="username_input" type="text" placeholder="Username">
+            <input id="password_input" type="password" placeholder="Password">
+            <button class="login_button" onclick="login();">Login</button>
             <a href="#" class="go-back">Go Back</a>
         </div>
     </div>
@@ -41,11 +41,12 @@
     <div class="full-screen" id="right-full">
         <div class="login-form">
             <h2>Login as Sith</h2>
-            <input type="text" placeholder="Username">
-            <input type="password" placeholder="Password">
-            <button>Login</button>
+            <input id="username_input" type="text" placeholder="Username">
+            <input id="password_input" type="password" placeholder="Password">
+            <button class="login_button" onclick="login();">Login</button>
             <a href="#" class="go-back">Go Back</a>
         </div>
     </div>
+    <script src="log_in.js"></script>
 </body>
 </html>
