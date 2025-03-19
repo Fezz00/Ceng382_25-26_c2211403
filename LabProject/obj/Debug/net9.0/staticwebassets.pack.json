@@ -5,12 +5,68 @@
       "PackagePath": "staticwebassets/LabProject.0m3vzwz04i.bundle.scp.css"
     },
     {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/_media.css",
+      "PackagePath": "staticwebassets/css/bootstrap/_media.css"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_border-radius.css",
+      "PackagePath": "staticwebassets/css/bootstrap/mixins/_border-radius.css"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_reset-text.css",
+      "PackagePath": "staticwebassets/css/bootstrap/mixins/_reset-text.css"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_screen-reader.css",
+      "PackagePath": "staticwebassets/css/bootstrap/mixins/_screen-reader.css"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_text-hide.css",
+      "PackagePath": "staticwebassets/css/bootstrap/mixins/_text-hide.css"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_visibility.css",
+      "PackagePath": "staticwebassets/css/bootstrap/mixins/_visibility.css"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/utilities/_stretched-link.css",
+      "PackagePath": "staticwebassets/css/bootstrap/utilities/_stretched-link.css"
+    },
+    {
       "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
       "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/images/bg.jpg",
+      "PackagePath": "staticwebassets/images/bg.jpg"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/popper.js",
+      "PackagePath": "staticwebassets/js/popper.js"
     },
     {
       "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/site.js",

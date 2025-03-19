@@ -96,3 +96,16 @@
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/LabProject.pdb
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/LabProject.genruntimeconfig.cache
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/ref/LabProject.dll
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/cfekinpi0w-o2wlpouf80.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/jqfm0a88zc-5ipweew5fc.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/uw9zur73b7-5ipweew5fc.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/n4qcifhrj2-5ipweew5fc.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/sjwzrmeoy0-5ipweew5fc.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2ax2mt21v4-5ipweew5fc.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/xwouber5xc-og2dpbrh3e.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/0n1kygeiio-b43ch30if3.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/6ch3u1n4s9-zk4k27b073.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2mac8ct38c-m8so7gk97h.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/qac9bswf03-0h1hq80lqs.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/8polbvpv4m-m7psn0c10k.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/iooxp3ma14-dddfm65c8w.gz

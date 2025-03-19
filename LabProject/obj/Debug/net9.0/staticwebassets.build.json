@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ip7OYAbgEjR8k0EDraR0uJBX0kjuTXZiskOLebpd0fQ=",
+  "Hash": "LecoI74NChMwyKo+DPwKoL6GIKEmeW001fnutp+JrEA=",
   "Source": "LabProject",
   "BasePath": "_content/LabProject",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/0n1kygeiio-b43ch30if3.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/_media#[.{fingerprint=b43ch30if3}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/_media.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0hv2gpcyvv",
+      "Integrity": "LKCVHLYkAUO3ob4flgfzq3hGiWSuKVwP02+NgrQ5BBo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/_media.css"
     },
     {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/0vky38masl-xtxxf3hu2r.gz",
@@ -120,6 +141,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2ax2mt21v4-5ipweew5fc.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/mixins/_visibility#[.{fingerprint=5ipweew5fc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_visibility.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_visibility.css"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2mac8ct38c-m8so7gk97h.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "js/bootstrap.min#[.{fingerprint=m8so7gk97h}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/bootstrap.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "l8tqsivnnm",
+      "Integrity": "exV2Hdd1LMDPPfE3dIDcqsvf9fA+5sRuTECi6NdosDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/bootstrap.min.js"
     },
     {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2w168hgxge-khv3u5hwcm.gz",
@@ -290,6 +353,27 @@
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/6ch3u1n4s9-zk4k27b073.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/style#[.{fingerprint=zk4k27b073}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zv724or2ys",
+      "Integrity": "b6jsQwfPjFlXo+XkR3fyckMvc7WUnxnTifUx6RdMjOY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/style.css"
+    },
+    {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/7jh18ujaik-ub07r2b239.gz",
       "SourceId": "LabProject",
       "SourceType": "Discovered",
@@ -393,6 +477,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/8polbvpv4m-m7psn0c10k.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "js/main#[.{fingerprint=m7psn0c10k}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/main.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tjthsobjg8",
+      "Integrity": "2Ru+NqvelPYguwR4VHQhJn4/h5R84+Ovu+GRioKCmIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/main.js"
     },
     {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/9cqj50vres-notf2xhcfb.gz",
@@ -540,6 +645,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/scopedcss/bundle/LabProject.styles.css"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/cfekinpi0w-o2wlpouf80.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint=o2wlpouf80}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "k86iuv7jky",
+      "Integrity": "7CWkKsjvlhPKc45oJHJGzgM53kmX/i7fp9zuQrjzE4E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap.min.css"
     },
     {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/cl96fqs2b8-37tfw0ft22.gz",
@@ -731,6 +857,48 @@
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/iooxp3ma14-dddfm65c8w.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "js/popper#[.{fingerprint=dddfm65c8w}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/popper.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2yi2dlsdvd",
+      "Integrity": "lpLveA0kfy+T6G2twyq5v644j7zAjWcgbTPzUgYQIRg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/popper.js"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/jqfm0a88zc-5ipweew5fc.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/mixins/_border-radius#[.{fingerprint=5ipweew5fc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_border-radius.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_border-radius.css"
+    },
+    {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/ju11ipzvmd-ag7o75518u.gz",
       "SourceId": "LabProject",
       "SourceType": "Discovered",
@@ -878,6 +1046,27 @@
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/n4qcifhrj2-5ipweew5fc.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/mixins/_screen-reader#[.{fingerprint=5ipweew5fc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_screen-reader.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_screen-reader.css"
+    },
+    {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/peio4465qg-pk9g2wxc8p.gz",
       "SourceId": "LabProject",
       "SourceType": "Discovered",
@@ -962,6 +1151,27 @@
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/qac9bswf03-0h1hq80lqs.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "js/jquery.min#[.{fingerprint=0h1hq80lqs}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/jquery.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jeisxjl9im",
+      "Integrity": "1TYd+lbjEQS2WvST/hyfMn71u0qtkE5Fq8Y9UVxpBUA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/jquery.min.js"
+    },
+    {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/qpo0wvmuxx-cosvhxvwiu.gz",
       "SourceId": "LabProject",
       "SourceType": "Discovered",
@@ -1044,6 +1254,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/sjwzrmeoy0-5ipweew5fc.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/mixins/_text-hide#[.{fingerprint=5ipweew5fc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_text-hide.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_text-hide.css"
     },
     {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/steppx2q9a-aexeepp0ev.gz",
@@ -1193,6 +1424,27 @@
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/uw9zur73b7-5ipweew5fc.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/mixins/_reset-text#[.{fingerprint=5ipweew5fc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_reset-text.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_reset-text.css"
+    },
+    {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/vxxvduo3r4-jd9uben2k1.gz",
       "SourceId": "LabProject",
       "SourceType": "Discovered",
@@ -1254,6 +1506,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/xwouber5xc-og2dpbrh3e.gz",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/utilities/_stretched-link#[.{fingerprint=og2dpbrh3e}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/utilities/_stretched-link.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p35bwswcls",
+      "Integrity": "lf433ECsO5M2xdLxxP+bHM0Bw+urnGnHk0L4+JBnKgQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/utilities/_stretched-link.css"
     },
     {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/ypxymml46o-v0zj4ognzu.gz",
@@ -1403,6 +1676,174 @@
       "OriginalItemSpec": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/scopedcss/projectbundle/LabProject.bundle.scp.css"
     },
     {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap.min.css",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2wlpouf80",
+      "Integrity": "YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/_media.css",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/_media#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b43ch30if3",
+      "Integrity": "y7cnP3ymVes74dCg5U/AtfuJrHJ3gn1PnfCAbUffqVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/_media.css"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_border-radius.css",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/mixins/_border-radius#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/mixins/_border-radius.css"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_reset-text.css",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/mixins/_reset-text#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/mixins/_reset-text.css"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_screen-reader.css",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/mixins/_screen-reader#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/mixins/_screen-reader.css"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_text-hide.css",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/mixins/_text-hide#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/mixins/_text-hide.css"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_visibility.css",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/mixins/_visibility#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/mixins/_visibility.css"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/utilities/_stretched-link.css",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/bootstrap/utilities/_stretched-link#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "og2dpbrh3e",
+      "Integrity": "SP18fRzfv4nwUljKF8Dh6u2QBcEP+0oMF8n5nPvi8eU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/utilities/_stretched-link.css"
+    },
+    {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/site.css",
       "SourceId": "LabProject",
       "SourceType": "Discovered",
@@ -1424,6 +1865,27 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/style.css",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zk4k27b073",
+      "Integrity": "M8KUu6wscZs/BZJ75vfh9tUmpBczdkY+EeDR8sEXpnk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    },
+    {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/favicon.ico",
       "SourceId": "LabProject",
       "SourceType": "Discovered",
@@ -1443,6 +1905,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/images/bg.jpg",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "images/bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f4f1oyaerj",
+      "Integrity": "Mf3o73Xe547u9ptMxkSo0X6OTMEWZjmguJbfLDLSpqs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/bg.jpg"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/bootstrap.min.js",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m8so7gk97h",
+      "Integrity": "CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.min.js"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/jquery.min.js",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "js/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0h1hq80lqs",
+      "Integrity": "TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/jquery.min.js"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/main.js",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m7psn0c10k",
+      "Integrity": "ouV0DB4XxJ9hlD59shHX5NEB50/3FLsPbJ5f5Iu6pEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/main.js"
+    },
+    {
+      "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/popper.js",
+      "SourceId": "LabProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/",
+      "BasePath": "_content/LabProject",
+      "RelativePath": "js/popper#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dddfm65c8w",
+      "Integrity": "ce98Ftddp1pdQX33XtchRLxexlqcBCm33uCYitw+jSk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/popper.js"
     },
     {
       "Identity": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/site.js",
@@ -2728,6 +3295,2390 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/cfekinpi0w-o2wlpouf80.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000042966400"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23273"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7CWkKsjvlhPKc45oJHJGzgM53kmX/i7fp9zuQrjzE4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/cfekinpi0w-o2wlpouf80.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7CWkKsjvlhPKc45oJHJGzgM53kmX/i7fp9zuQrjzE4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7CWkKsjvlhPKc45oJHJGzgM53kmX/i7fp9zuQrjzE4E="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.o2wlpouf80.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/cfekinpi0w-o2wlpouf80.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000042966400"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23273"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7CWkKsjvlhPKc45oJHJGzgM53kmX/i7fp9zuQrjzE4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2wlpouf80"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.o2wlpouf80.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2wlpouf80"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.o2wlpouf80.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/cfekinpi0w-o2wlpouf80.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7CWkKsjvlhPKc45oJHJGzgM53kmX/i7fp9zuQrjzE4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2wlpouf80"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7CWkKsjvlhPKc45oJHJGzgM53kmX/i7fp9zuQrjzE4E="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/_media.b43ch30if3.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/0n1kygeiio-b43ch30if3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007751937984"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKCVHLYkAUO3ob4flgfzq3hGiWSuKVwP02+NgrQ5BBo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y7cnP3ymVes74dCg5U/AtfuJrHJ3gn1PnfCAbUffqVc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b43ch30if3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/_media.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y7cnP3ymVes74dCg5U/AtfuJrHJ3gn1PnfCAbUffqVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/_media.b43ch30if3.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/_media.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y7cnP3ymVes74dCg5U/AtfuJrHJ3gn1PnfCAbUffqVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b43ch30if3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/_media.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y7cnP3ymVes74dCg5U/AtfuJrHJ3gn1PnfCAbUffqVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/_media.b43ch30if3.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/0n1kygeiio-b43ch30if3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKCVHLYkAUO3ob4flgfzq3hGiWSuKVwP02+NgrQ5BBo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b43ch30if3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/_media.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKCVHLYkAUO3ob4flgfzq3hGiWSuKVwP02+NgrQ5BBo="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/_media.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/0n1kygeiio-b43ch30if3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007751937984"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKCVHLYkAUO3ob4flgfzq3hGiWSuKVwP02+NgrQ5BBo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y7cnP3ymVes74dCg5U/AtfuJrHJ3gn1PnfCAbUffqVc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y7cnP3ymVes74dCg5U/AtfuJrHJ3gn1PnfCAbUffqVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/_media.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/_media.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y7cnP3ymVes74dCg5U/AtfuJrHJ3gn1PnfCAbUffqVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y7cnP3ymVes74dCg5U/AtfuJrHJ3gn1PnfCAbUffqVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/_media.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/0n1kygeiio-b43ch30if3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKCVHLYkAUO3ob4flgfzq3hGiWSuKVwP02+NgrQ5BBo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKCVHLYkAUO3ob4flgfzq3hGiWSuKVwP02+NgrQ5BBo="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_border-radius.5ipweew5fc.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/jqfm0a88zc-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_border-radius.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_border-radius.5ipweew5fc.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_border-radius.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_border-radius.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_border-radius.5ipweew5fc.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/jqfm0a88zc-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_border-radius.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_border-radius.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/jqfm0a88zc-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_border-radius.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_border-radius.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_border-radius.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/jqfm0a88zc-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_reset-text.5ipweew5fc.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/uw9zur73b7-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_reset-text.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_reset-text.5ipweew5fc.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_reset-text.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_reset-text.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_reset-text.5ipweew5fc.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/uw9zur73b7-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_reset-text.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_reset-text.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/uw9zur73b7-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_reset-text.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_reset-text.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_reset-text.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/uw9zur73b7-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_screen-reader.5ipweew5fc.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/n4qcifhrj2-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_screen-reader.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_screen-reader.5ipweew5fc.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_screen-reader.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_screen-reader.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_screen-reader.5ipweew5fc.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/n4qcifhrj2-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_screen-reader.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_screen-reader.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/n4qcifhrj2-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_screen-reader.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_screen-reader.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_screen-reader.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/n4qcifhrj2-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_text-hide.5ipweew5fc.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/sjwzrmeoy0-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_text-hide.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_text-hide.5ipweew5fc.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_text-hide.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_text-hide.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_text-hide.5ipweew5fc.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/sjwzrmeoy0-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_text-hide.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_text-hide.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/sjwzrmeoy0-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_text-hide.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_text-hide.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_text-hide.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/sjwzrmeoy0-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_visibility.5ipweew5fc.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2ax2mt21v4-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_visibility.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_visibility.5ipweew5fc.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_visibility.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_visibility.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_visibility.5ipweew5fc.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2ax2mt21v4-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/mixins/_visibility.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_visibility.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2ax2mt21v4-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_visibility.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/mixins/_visibility.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/mixins/_visibility.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2ax2mt21v4-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/utilities/_stretched-link.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/xwouber5xc-og2dpbrh3e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006578947368"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lf433ECsO5M2xdLxxP+bHM0Bw+urnGnHk0L4+JBnKgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SP18fRzfv4nwUljKF8Dh6u2QBcEP+0oMF8n5nPvi8eU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SP18fRzfv4nwUljKF8Dh6u2QBcEP+0oMF8n5nPvi8eU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/utilities/_stretched-link.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/utilities/_stretched-link.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SP18fRzfv4nwUljKF8Dh6u2QBcEP+0oMF8n5nPvi8eU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SP18fRzfv4nwUljKF8Dh6u2QBcEP+0oMF8n5nPvi8eU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/utilities/_stretched-link.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/xwouber5xc-og2dpbrh3e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lf433ECsO5M2xdLxxP+bHM0Bw+urnGnHk0L4+JBnKgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lf433ECsO5M2xdLxxP+bHM0Bw+urnGnHk0L4+JBnKgQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/utilities/_stretched-link.og2dpbrh3e.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/xwouber5xc-og2dpbrh3e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006578947368"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lf433ECsO5M2xdLxxP+bHM0Bw+urnGnHk0L4+JBnKgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SP18fRzfv4nwUljKF8Dh6u2QBcEP+0oMF8n5nPvi8eU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "og2dpbrh3e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/utilities/_stretched-link.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SP18fRzfv4nwUljKF8Dh6u2QBcEP+0oMF8n5nPvi8eU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/utilities/_stretched-link.og2dpbrh3e.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/bootstrap/utilities/_stretched-link.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SP18fRzfv4nwUljKF8Dh6u2QBcEP+0oMF8n5nPvi8eU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "og2dpbrh3e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/utilities/_stretched-link.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SP18fRzfv4nwUljKF8Dh6u2QBcEP+0oMF8n5nPvi8eU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/utilities/_stretched-link.og2dpbrh3e.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/xwouber5xc-og2dpbrh3e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lf433ECsO5M2xdLxxP+bHM0Bw+urnGnHk0L4+JBnKgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "og2dpbrh3e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/utilities/_stretched-link.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lf433ECsO5M2xdLxxP+bHM0Bw+urnGnHk0L4+JBnKgQ="
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/sygkliv830-b9sayid5wm.gz",
       "Selectors": [
@@ -3026,6 +5977,304 @@
       ]
     },
     {
+      "Route": "css/style.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/6ch3u1n4s9-zk4k27b073.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000035107429"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28483"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b6jsQwfPjFlXo+XkR3fyckMvc7WUnxnTifUx6RdMjOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"M8KUu6wscZs/BZJ75vfh9tUmpBczdkY+EeDR8sEXpnk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M8KUu6wscZs/BZJ75vfh9tUmpBczdkY+EeDR8sEXpnk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "223226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M8KUu6wscZs/BZJ75vfh9tUmpBczdkY+EeDR8sEXpnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M8KUu6wscZs/BZJ75vfh9tUmpBczdkY+EeDR8sEXpnk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/6ch3u1n4s9-zk4k27b073.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b6jsQwfPjFlXo+XkR3fyckMvc7WUnxnTifUx6RdMjOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b6jsQwfPjFlXo+XkR3fyckMvc7WUnxnTifUx6RdMjOY="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.zk4k27b073.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/6ch3u1n4s9-zk4k27b073.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000035107429"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28483"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b6jsQwfPjFlXo+XkR3fyckMvc7WUnxnTifUx6RdMjOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"M8KUu6wscZs/BZJ75vfh9tUmpBczdkY+EeDR8sEXpnk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk4k27b073"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M8KUu6wscZs/BZJ75vfh9tUmpBczdkY+EeDR8sEXpnk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.zk4k27b073.css",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "223226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M8KUu6wscZs/BZJ75vfh9tUmpBczdkY+EeDR8sEXpnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk4k27b073"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M8KUu6wscZs/BZJ75vfh9tUmpBczdkY+EeDR8sEXpnk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.zk4k27b073.css.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/6ch3u1n4s9-zk4k27b073.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b6jsQwfPjFlXo+XkR3fyckMvc7WUnxnTifUx6RdMjOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:03:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk4k27b073"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b6jsQwfPjFlXo+XkR3fyckMvc7WUnxnTifUx6RdMjOY="
+        }
+      ]
+    },
+    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/hgfenu8nsr-61n19gt1b8.gz",
       "Selectors": [
@@ -3320,6 +6569,1280 @@
         {
           "Name": "integrity",
           "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+        }
+      ]
+    },
+    {
+      "Route": "images/bg.f4f1oyaerj.jpg",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/images/bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mf3o73Xe547u9ptMxkSo0X6OTMEWZjmguJbfLDLSpqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 10:43:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f4f1oyaerj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mf3o73Xe547u9ptMxkSo0X6OTMEWZjmguJbfLDLSpqs="
+        }
+      ]
+    },
+    {
+      "Route": "images/bg.jpg",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/images/bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mf3o73Xe547u9ptMxkSo0X6OTMEWZjmguJbfLDLSpqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 10:43:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mf3o73Xe547u9ptMxkSo0X6OTMEWZjmguJbfLDLSpqs="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2mac8ct38c-m8so7gk97h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000064586966"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15482"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exV2Hdd1LMDPPfE3dIDcqsvf9fA+5sRuTECi6NdosDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2mac8ct38c-m8so7gk97h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exV2Hdd1LMDPPfE3dIDcqsvf9fA+5sRuTECi6NdosDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-exV2Hdd1LMDPPfE3dIDcqsvf9fA+5sRuTECi6NdosDc="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.m8so7gk97h.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2mac8ct38c-m8so7gk97h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000064586966"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15482"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exV2Hdd1LMDPPfE3dIDcqsvf9fA+5sRuTECi6NdosDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8so7gk97h"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.m8so7gk97h.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8so7gk97h"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.m8so7gk97h.js.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/2mac8ct38c-m8so7gk97h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exV2Hdd1LMDPPfE3dIDcqsvf9fA+5sRuTECi6NdosDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8so7gk97h"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-exV2Hdd1LMDPPfE3dIDcqsvf9fA+5sRuTECi6NdosDc="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.0h1hq80lqs.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/qac9bswf03-0h1hq80lqs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032262227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30995"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1TYd+lbjEQS2WvST/hyfMn71u0qtkE5Fq8Y9UVxpBUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h1hq80lqs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.0h1hq80lqs.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h1hq80lqs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.0h1hq80lqs.js.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/qac9bswf03-0h1hq80lqs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1TYd+lbjEQS2WvST/hyfMn71u0qtkE5Fq8Y9UVxpBUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h1hq80lqs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1TYd+lbjEQS2WvST/hyfMn71u0qtkE5Fq8Y9UVxpBUA="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/qac9bswf03-0h1hq80lqs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032262227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30995"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1TYd+lbjEQS2WvST/hyfMn71u0qtkE5Fq8Y9UVxpBUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.js.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/qac9bswf03-0h1hq80lqs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1TYd+lbjEQS2WvST/hyfMn71u0qtkE5Fq8Y9UVxpBUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1TYd+lbjEQS2WvST/hyfMn71u0qtkE5Fq8Y9UVxpBUA="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/8polbvpv4m-m7psn0c10k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003745318352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Ru+NqvelPYguwR4VHQhJn4/h5R84+Ovu+GRioKCmIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ouV0DB4XxJ9hlD59shHX5NEB50/3FLsPbJ5f5Iu6pEU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ouV0DB4XxJ9hlD59shHX5NEB50/3FLsPbJ5f5Iu6pEU="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ouV0DB4XxJ9hlD59shHX5NEB50/3FLsPbJ5f5Iu6pEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ouV0DB4XxJ9hlD59shHX5NEB50/3FLsPbJ5f5Iu6pEU="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/8polbvpv4m-m7psn0c10k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Ru+NqvelPYguwR4VHQhJn4/h5R84+Ovu+GRioKCmIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Ru+NqvelPYguwR4VHQhJn4/h5R84+Ovu+GRioKCmIQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.m7psn0c10k.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/8polbvpv4m-m7psn0c10k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003745318352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Ru+NqvelPYguwR4VHQhJn4/h5R84+Ovu+GRioKCmIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ouV0DB4XxJ9hlD59shHX5NEB50/3FLsPbJ5f5Iu6pEU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m7psn0c10k"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ouV0DB4XxJ9hlD59shHX5NEB50/3FLsPbJ5f5Iu6pEU="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.m7psn0c10k.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ouV0DB4XxJ9hlD59shHX5NEB50/3FLsPbJ5f5Iu6pEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m7psn0c10k"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ouV0DB4XxJ9hlD59shHX5NEB50/3FLsPbJ5f5Iu6pEU="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.m7psn0c10k.js.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/8polbvpv4m-m7psn0c10k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Ru+NqvelPYguwR4VHQhJn4/h5R84+Ovu+GRioKCmIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m7psn0c10k"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Ru+NqvelPYguwR4VHQhJn4/h5R84+Ovu+GRioKCmIQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/popper.dddfm65c8w.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/iooxp3ma14-dddfm65c8w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000133457894"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7492"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lpLveA0kfy+T6G2twyq5v644j7zAjWcgbTPzUgYQIRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ce98Ftddp1pdQX33XtchRLxexlqcBCm33uCYitw+jSk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dddfm65c8w"
+        },
+        {
+          "Name": "label",
+          "Value": "js/popper.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ce98Ftddp1pdQX33XtchRLxexlqcBCm33uCYitw+jSk="
+        }
+      ]
+    },
+    {
+      "Route": "js/popper.dddfm65c8w.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/popper.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ce98Ftddp1pdQX33XtchRLxexlqcBCm33uCYitw+jSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dddfm65c8w"
+        },
+        {
+          "Name": "label",
+          "Value": "js/popper.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ce98Ftddp1pdQX33XtchRLxexlqcBCm33uCYitw+jSk="
+        }
+      ]
+    },
+    {
+      "Route": "js/popper.dddfm65c8w.js.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/iooxp3ma14-dddfm65c8w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lpLveA0kfy+T6G2twyq5v644j7zAjWcgbTPzUgYQIRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dddfm65c8w"
+        },
+        {
+          "Name": "label",
+          "Value": "js/popper.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lpLveA0kfy+T6G2twyq5v644j7zAjWcgbTPzUgYQIRg="
+        }
+      ]
+    },
+    {
+      "Route": "js/popper.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/iooxp3ma14-dddfm65c8w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000133457894"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7492"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lpLveA0kfy+T6G2twyq5v644j7zAjWcgbTPzUgYQIRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ce98Ftddp1pdQX33XtchRLxexlqcBCm33uCYitw+jSk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ce98Ftddp1pdQX33XtchRLxexlqcBCm33uCYitw+jSk="
+        }
+      ]
+    },
+    {
+      "Route": "js/popper.js",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/wwwroot/js/popper.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ce98Ftddp1pdQX33XtchRLxexlqcBCm33uCYitw+jSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ce98Ftddp1pdQX33XtchRLxexlqcBCm33uCYitw+jSk="
+        }
+      ]
+    },
+    {
+      "Route": "js/popper.js.gz",
+      "AssetFile": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/LabProject/obj/Debug/net9.0/compressed/iooxp3ma14-dddfm65c8w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lpLveA0kfy+T6G2twyq5v644j7zAjWcgbTPzUgYQIRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 11:04:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lpLveA0kfy+T6G2twyq5v644j7zAjWcgbTPzUgYQIRg="
         }
       ]
     },
