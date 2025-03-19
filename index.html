@@ -1,52 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Star Wars</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Star Wars Login</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="split-screen">
-        <div class="left" id="left-side">
-            <a href="#left-full" class="lightsaber">
-                <div class="light"></div>
-                <div class="top"></div>
-                <div class="middle"></div>
-                <div class="bottom"></div>
-            </a>
-        </div>
+  <div class="starwars-demo">
+    <img src="star.svg" alt="Star" class="star">
+    <img src="wars.svg" alt="Wars" class="wars">
+  </div>
 
-        
-        <div class="right" id="right-side">
-            <a href="#right-full" class="lightsaber">
-                <div class="light"></div>
-                <div class="top"></div>
-                <div class="middle"></div>
-                <div class="bottom"></div>
-            </a>
-        </div>
-    </div>
+  <div class="login-form" id="loginForm">
+    <form>
+      <input type="text" placeholder="Username" required>
+      <input type="password" placeholder="Password" required>
+      <button type="submit">Login</button>
+    </form>
+  </div>
 
-    
-    <div class="full-screen" id="left-full">
-        <div class="login-form">
-            <h2>Login as Jedi</h2>
-            <input id="username_input" type="text" placeholder="Username">
-            <input id="password_input" type="password" placeholder="Password">
-            <button class="login_button" onclick="login();">Login</button>
-            <a href="#" class="go-back">Go Back</a>
-        </div>
-    </div>
-
-    
-    <div class="full-screen" id="right-full">
-        <div class="login-form">
-            <h2>Login as Sith</h2>
-            <input id="username_input" type="text" placeholder="Username">
-            <input id="password_input" type="password" placeholder="Password">
-            <button class="login_button" onclick="login();">Login</button>
-            <a href="#" class="go-back">Go Back</a>
-        </div>
-    </div>
-    <script src="log_in.js"></script>
+  <script src="scripts.js"></script>
 </body>
 </html>
