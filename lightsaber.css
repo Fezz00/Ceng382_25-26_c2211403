@@ -1,0 +1,108 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+  background: #080808;
+}
+.lightsaber {
+  position: absolute;
+  bottom: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  cursor: pointer;
+  z-index: 2;
+  text-decoration: none;
+  margin-bottom: 1em;
+}
+
+.lightsaber::before {
+  content: '';
+  position: absolute;
+  background: radial-gradient(
+      circle,
+      #460000 0%,
+      #080808 100%
+  );
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  width: 100%;
+  opacity: 0;
+  transition: 0.3s;
+}
+
+.top, .middle, .bottom {
+  background: linear-gradient(90deg,
+      #1f1f1f 0%,
+      #1c1c1c 50%,
+      #4a4a4a 60%,
+      #1c1c1c 70%,
+      #1f1f1f 100%);
+  margin: 0 auto;
+  border: #333 1px solid;
+}
+
+.bottom {
+  width: 2em;
+  height: 3em;
+  background: linear-gradient(90deg,
+      #1f1f1f 0%,
+      #505050 30%,
+      #8c8c8c 50%,
+      #505050 70%,
+      #1f1f1f 100%);
+}
+
+.middle {
+  width: 1.5em;
+  height: 3em;
+}
+
+.top {
+  height: 3em;
+  width: 2em;
+  position: relative;
+}
+
+.light {
+  width: 0.8em;
+  height: 0;
+  background: #fff;
+  margin: 0 auto;
+  border-radius: 3em 3em 0 0;
+  position: relative;
+  transition: 0.5s;
+}
+
+.light::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -1.5em;
+  width: 0;
+  height: 0.5em;
+  border-radius: 3em;
+  background: inherit;
+  z-index: -1;
+  transition: 0.5s;
+}
+
+.lightsaber:hover .light {
+  height: 15em;
+  box-shadow: 0 -10px 30px 10px #ff0000; /* Red glow */
+  border: 2px solid #ff0000; /* Red border */
+  animation: flicker-red 0.2s infinite linear;
+}
+
+.lightsaber:hover::before {
+  opacity: 1;
+}
+
+@keyframes flicker-red {
+  90% { box-shadow: 0 0 20px 5px #ff0000; }
+  100% { box-shadow: 0 0 15px 8px #ff0000; }
+}

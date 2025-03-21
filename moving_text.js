@@ -1,0 +1,23 @@
+window.addEventListener('load', function() {
+  const starWarsDemo = document.querySelector('.starwars-demo');
+  const loginForm = document.getElementById('loginForm');
+  const lightsabers = document.querySelector('.lightsabers');
+
+  // Trigger the scroll animation when clicked
+  starWarsDemo.addEventListener('click', function() {
+    // Start the scroll animation on click
+    starWarsDemo.classList.add('scrolling');
+
+    // After the Star Wars text finishes scrolling, show the login form and lightsabers
+    setTimeout(function() {
+      loginForm.style.display = 'block';
+      loginForm.classList.add('scroll'); // Trigger the login scroll animation
+      lightsabers.style.opacity = 1; // Show lightsabers after animation
+    }, 7000); // After 7 seconds, which matches the duration of the scrolling animation
+  });
+
+  starWarsDemo.addEventListener('animationend', function() {
+    // When the animation ends, add hover effect
+    starWarsDemo.classList.add('can-hover');
+  });
+});
