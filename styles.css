@@ -15,6 +15,8 @@ body {
   animation: star 3s forwards;
   position: relative;
   perspective: 1000px;
+  z-index: 10; /* Ensure this text is on top */
+  cursor: pointer; /* Make sure it's clickable */
 }
 
 .star, .wars {
@@ -88,11 +90,131 @@ body {
   }
 }
 
-/* Login form styling with Star Wars theme */
+.lightsabers {
+  position: absolute;
+  top: 70%;
+  left: 10%;  /* Move it closer to the left */
+  transform: translateY(-50%);
+  display: flex;
+  justify-content: space-between;
+  width: 80%; /* Adjust the width to provide more space */
+  opacity: 0;
+  transition: opacity 2s ease-in-out;
+}
+
+.lightsaber_left {
+  position: absolute;
+  bottom: 10%;
+  left: 0; /* Position the left lightsaber to the left side */
+}
+
+.lightsaber_right {
+  position: absolute;
+  bottom: 10%;
+  right: 0; /* Position the right lightsaber to the right side */
+}
+
+.lightsaber_left.left {
+  left: 0; /* Keep the left lightsaber at the start */
+}
+
+.lightsaber_right.left {
+  left: 50%; /* Position the right lightsaber correctly */
+}
+
+.lightsabers .light {
+  width: 0.8em;
+  height: 0;
+  background: #fff;
+  margin: 0 auto;
+  border-radius: 3em 3em 0 0;
+  position: relative;
+  transition: height 0.5s ease, box-shadow 0.5s ease;
+}
+
+.lightsabers .light::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -1.5em;
+  width: 0;
+  height: 0.5em;
+  border-radius: 3em;
+  background: inherit;
+  z-index: -1;
+  transition: 0.5s;
+}
+
+.lightsabers .top, .lightsaber .middle, .lightsaber .bottom {
+  background: linear-gradient(90deg,
+      #1f1f1f 0%,
+      #1c1c1c 50%,
+      #4a4a4a 60%,
+      #1c1c1c 70%,
+      #1f1f1f 100%);
+  margin: 0 auto;
+  border: #333 1px solid;
+}
+
+.lightsabers .bottom {
+  width: 2em;
+  height: 3em;
+  background: linear-gradient(90deg,
+      #1f1f1f 0%,
+      #505050 30%,
+      #8c8c8c 50%,
+      #505050 70%,
+      #1f1f1f 100%);
+}
+
+.lightsabers .middle {
+  width: 1.5em;
+  height: 3em;
+}
+
+.lightsabers .top {
+  height: 3em;
+  width: 2em;
+  position: absolute;
+}
+
+.lightsaber_left .light {
+  background: rgb(26, 194, 14);
+}
+
+.lightsaber_right .light {
+  background: red;
+}
+
+.lightsaber_right:hover .light {
+  height: 15em;
+  box-shadow: 0 -10px 30px 10px #ff0000;
+  border: 2px solid #ff0000;
+  animation: flicker-red 0.2s infinite linear;
+}
+
+.lightsaber_left:hover .light {
+  height: 15em;
+  box-shadow: 0 -10px 30px 10px green;
+  border: 2px solid green;
+  animation: flicker-green 0.2s infinite linear;
+}
+
+@keyframes flicker-red {
+  90% { box-shadow: 0 0 20px 5px #ff0000; }
+  100% { box-shadow: 0 0 15px 8px #ff0000; }
+}
+
+@keyframes flicker-green {
+  90% { box-shadow: 0 0 20px 5px green; }
+  100% { box-shadow: 0 0 15px 8px green; }
+}
+
 .login-form {
   display: none;
   position: absolute;
-  bottom: 50px; /* Moved higher from the bottom */
+  bottom: 50px;
   text-align: center;
   font-family: 'Star Wars', Arial, sans-serif;
   opacity: 0;
@@ -133,27 +255,25 @@ body {
   background-color: #45a049;
 }
 
-/* Login form fade-in and scroll-up animation */
 @keyframes loginFadeIn {
   0% {
     opacity: 0;
-    transform: translateY(50px); /* Start a little lower */
+    transform: translateY(50px);
   }
   30% {
     opacity: 1;
-    transform: translateY(0); /* Move into place */
+    transform: translateY(0);
   }
   100% {
     opacity: 1;
-    transform: translateY(0); /* Keep it in place */
+    transform: translateY(0);
   }
 }
 
-/* Apply the fade-in and scroll-up effect */
 .login-form.scroll {
   display: block;
-  animation: loginFadeIn 5s forwards; /* Same speed as the text animation */
-  animation-delay: 0s; /* Wait for the Star Wars text to disappear */
+  animation: loginFadeIn 5s forwards;
+  animation-delay: 0s;
 }
 
 /* Disable hover effect during scrolling */
