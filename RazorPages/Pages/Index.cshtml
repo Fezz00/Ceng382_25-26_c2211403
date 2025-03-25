@@ -1,10 +1,109 @@
 ﻿@page
-@model IndexModel
-@{
-    ViewData["Title"] = "Home page";
-}
+@model RazorPages.Pages.IndexModel
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<head>
+    <link href="~/css/styles.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+</head>
+
+<h2>Class Information</h2>
+
+<div class="container mt-4">
+    <div class="row">
+        <!-- Left side: Form -->
+        <div class="col-md-6">
+            <h3>Add New Class</h3>
+            <form method="post">
+                <div class="form-group">
+                    <label for="ClassName">Class Name:</label>
+                    <input type="text" asp-for="NewClass.ClassName" class="form-control" required />
+                </div>
+                <div class="form-group">
+                    <label for="StudentCount">Student Count:</label>
+                    <input type="number" asp-for="NewClass.StudentCount" class="form-control" required />
+                </div>
+                <div class="form-group">
+                    <label for="Description">Description:</label>
+                    <textarea asp-for="NewClass.Description" class="form-control"></textarea>
+                </div>
+                <button type="submit" asp-page-handler="Add" class="btn btn-primary mt-2">Add Class</button>
+            </form>
+        </div>
+
+        <!-- Right side: Table -->
+        <div class="col-md-6">
+            <h3>Class List</h3>
+            <table class="table table-bordered w-100">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Class Name</th>
+                        <th>Student Count</th>
+                        <th>Description</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.ClassList)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.ClassName</td>
+                            <td>@item.StudentCount</td>
+                            <td>@item.Description</td>
+                            <td>
+                                <!-- Edit Button -->
+                                <a href="#editModal-@item.Id" data-toggle="modal" class="btn btn-warning btn-sm">
+                                    <i class="bi bi-pencil"></i> Edit
+                                </a>
+
+                                <!-- Delete Button -->
+                                <form method="post" style="display:inline;">
+                                    <input type="hidden" name="id" value="@item.Id" />
+                                    <button type="submit" asp-page-handler="Delete" class="btn btn-danger btn-sm">
+                                        <i class="bi bi-trash"></i> Delete
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
 </div>
+
+<!-- Modal for Edit -->
+@foreach (var item in Model.ClassList)
+{
+    <div class="modal fade" id="editModal-@item.Id" tabindex="-1" role="dialog" aria-labelledby="editModalLabel-@item.Id" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="editModalLabel-@item.Id">Edit Class Information</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form method="post">
+                        <div class="form-group">
+                            <label for="ClassName">Class Name:</label>
+                            <input type="text" name="ClassName" class="form-control" value="@item.ClassName" required />
+                        </div>
+                        <div class="form-group">
+                            <label for="StudentCount">Student Count:</label>
+                            <input type="number" name="StudentCount" class="form-control" value="@item.StudentCount" required />
+                        </div>
+                        <div class="form-group">
+                            <label for="Description">Description:</label>
+                            <textarea name="Description" class="form-control">@item.Description</textarea>
+                        </div>
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" asp-page-handler="Edit" class="btn btn-success mt-2">Save Changes</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+}
