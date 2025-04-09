@@ -107,3 +107,39 @@ th {
 i.bi-trash {
   font-size: 16px;
 }
+
+/* Delete Button */
+.btn-danger {
+  background-color: #dc3545; /* Red color for delete */
+  border-color: #dc3545;
+  color: white;
+  padding: 10px 12px;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+
+/* Edit Button */
+.btn-warning {
+  background-color: #ffa500; /* Orange color for edit */
+  border-color: #ffa500;
+  color: white;
+  padding: 10px 12px;
+}
+
+.btn-warning:hover {
+  background-color: #ff7f00;
+  border-color: #e67700;
+}
+
+/* Trash Icon Styling */
+i.bi-trash {
+  font-size: 16px;
+}
+
+/* Pencil Icon Styling (Edit) */
+i.bi-pencil {
+  font-size: 16px;
+}

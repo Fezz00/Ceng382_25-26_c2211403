@@ -18,7 +18,6 @@
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/scopedcss/bundle/RazorPages.styles.css
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/scopedcss/projectbundle/RazorPages.bundle.scp.css
-/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/compressed/8nx3d6ytb5-njqhk5h948.gz
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/compressed/5arplyv19n-61n19gt1b8.gz
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/compressed/9imvbcgyvo-xtxxf3hu2r.gz
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/compressed/8wdmp82xnq-bqjiyaj88i.gz
@@ -96,3 +95,4 @@
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/RazorPages.pdb
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/RazorPages.genruntimeconfig.cache
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/ref/RazorPages.dll
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/compressed/8nx3d6ytb5-x2z1co70pb.gz
