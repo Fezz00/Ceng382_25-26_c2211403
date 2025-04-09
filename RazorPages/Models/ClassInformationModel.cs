@@ -2,18 +2,21 @@ namespace RazorPages.Models
 {
     public class ClassInformationModel
     {
-        private static int _idCounter = 1; // Static counter for generating unique IDs.
+        private static int _idCounter = 1;
 
-        public int Id { get; private set; } // ID property.
-        public string? ClassName { get; set; } // Class name property.
-        public int? StudentCount { get; set; } // Student count property.
-        public string? Description { get; set; } // Description property.
+        public int Id { get; set; }  // changed from private set to public set
+        public string? ClassName { get; set; }
+        public int? StudentCount { get; set; }
+        public string? Description { get; set; }
 
-        // Parameterless constructor
-        public ClassInformationModel()
+        public static int GetNextId()
         {
-            // Assign ID on creation, and increment it.
-            Id = _idCounter++;
+            return _idCounter++;
+        }
+
+        public static void ResetIdCounter()
+        {
+            _idCounter = 1;
         }
     }
 }
