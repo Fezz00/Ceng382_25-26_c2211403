@@ -25,7 +25,7 @@ else
 
 <form method="get">
     <input type="text" name="FilterName" value="@Model.FilterName" placeholder="Filter by Class Name" />
-    <button type="submit">Filter</button>
+    <button type="submit" class="btn btn-primary">Filter</button>
 </form>
 
 <br />
@@ -105,7 +105,7 @@ else
     <input type="number" asp-for="NewClass.StudentCount" required />
     <label>Description:</label>
     <input type="text" asp-for="NewClass.Description" required />
-    <button type="submit" formaction="?handler=Add">Add</button>
+    <button type="submit" formaction="?handler=Add" class="btn btn-primary">Add</button>
 </form>
 
 <style>
