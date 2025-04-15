@@ -10,6 +10,19 @@
 
 <h2>Class Table</h2>
 
+@if (HttpContext.Session.GetString("username") == null)
+{
+    <a href="/Login">Login</a>
+}
+else
+{
+    <p>Welcome, @HttpContext.Session.GetString("username")!</p>
+    <p>Role: @HttpContext.Session.GetString("role")</p>
+    <p>Active: @HttpContext.Session.GetString("isActive")</p>
+    <p>Created At: @HttpContext.Session.GetString("createdAt")</p>
+    <a href="/Logout">Logout</a> <!-- Show Logout link if user is logged in -->
+}
+
 <form method="get">
     <input type="text" name="FilterName" value="@Model.FilterName" placeholder="Filter by Class Name" />
     <button type="submit">Filter</button>

@@ -95,4 +95,8 @@
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/RazorPages.pdb
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/RazorPages.genruntimeconfig.cache
 /Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/ref/RazorPages.dll
-/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/compressed/8nx3d6ytb5-x2z1co70pb.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/compressed/8nx3d6ytb5-lhlj5zzvjn.gz
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/RazorPages.csproj.AssemblyReference.cache
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/RazorPages.csproj.Up2Date
+/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/obj/Debug/net9.0/compressed/03lhj5ofn7-5s8fdfy211.gz

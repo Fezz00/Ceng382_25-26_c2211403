@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/wwwroot/data/users.json",
+      "PackagePath": "staticwebassets/data/users.json"
+    },
+    {
       "Id": "/Users/feza/Desktop/CENG382-week1/Ceng382_25-26_c2211403/RazorPages/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
