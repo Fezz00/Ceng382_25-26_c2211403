@@ -50,6 +50,3 @@ namespace RazorPages.Pages
         }
     }
 }
-
-// _Layout.cshtml (optional logout link)
-// <a asp-page="/Logout">Logout</a>

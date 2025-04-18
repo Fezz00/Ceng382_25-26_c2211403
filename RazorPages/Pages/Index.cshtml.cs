@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using RazorPages.Models;
 using System.Collections.Generic;
 using System.Linq;
+using System;
 
 namespace RazorPages.Pages
 {
@@ -75,7 +76,20 @@ namespace RazorPages.Pages
             };
 
             _classList.Add(newEntry);
+            
+            var cookieOptions = new Microsoft.AspNetCore.Http.CookieOptions
+            {
+                Expires = DateTimeOffset.UtcNow.AddMinutes(30),
+                HttpOnly = true,
+                Secure = true,
+                SameSite = Microsoft.AspNetCore.Http.SameSiteMode.Strict
+            };
 
+            Response.Cookies.Append("username", "sampleUser", cookieOptions);
+            Response.Cookies.Append("role", "admin", cookieOptions);
+            Response.Cookies.Append("isActive", "true", cookieOptions);
+            Response.Cookies.Append("createdAt", DateTime.UtcNow.ToString("o"), cookieOptions);
+            
             return RedirectToPage();
         }
 
