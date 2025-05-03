@@ -1,4 +1,4 @@
 {
   "liveServer.settings.port": 5501,
-  "dotnet.defaultSolution": "LabProject/LabProject.sln"
+  "dotnet.defaultSolution": "RazorPages/RazorPages.sln"
 }

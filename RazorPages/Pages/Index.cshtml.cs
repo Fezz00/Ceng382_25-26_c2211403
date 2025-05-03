@@ -1,14 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using RazorPages.Models;
+using RazorPages.Data;
 using System.Collections.Generic;
 using System.Linq;
 using System;
+using System.Threading.Tasks;
 
 namespace RazorPages.Pages
 {
     public class IndexModel : PageModel
     {
+        private readonly SchoolDbContext _context;
+
         [BindProperty]
         public ClassInformationModel NewClass { get; set; } = new ClassInformationModel();
 
@@ -26,31 +31,25 @@ namespace RazorPages.Pages
 
         private static List<ClassInformationModel> _classList = new List<ClassInformationModel>();
 
-        public void OnGet()
+        // OnGetAsync method should be correctly implemented
+        public async Task OnGetAsync()
         {
-            if (_classList.Count == 0)
-            {
-                for (int i = 1; i <= 100; i++)
-                {
-                    _classList.Add(new ClassInformationModel
-                    {
-                        Id = ClassInformationModel.GetNextId(),
-                        ClassName = $"Class {i}",
-                        StudentCount = 10 + (i % 5),
-                        Description = $"Description for Class {i}"
-                    });
-                }
-            }
+            // Fetch the classes from the database asynchronously
+            IListClass = await _context.Classes.ToListAsync();
 
-            var filtered = string.IsNullOrEmpty(FilterName) ? _classList : _classList.Where(c => c.ClassName != null && c.ClassName.Contains(FilterName)).ToList();
+            // Apply filtering based on FilterName
+            var filtered = string.IsNullOrEmpty(FilterName) ? IListClass : IListClass.Where(c => c.ClassName.Contains(FilterName)).ToList();
 
-            TotalPages = (int)System.Math.Ceiling((double)filtered.Count / PageSize);
+            // Calculate the total number of pages
+            TotalPages = (int)Math.Ceiling((double)filtered.Count / PageSize);
 
+            // Apply pagination (skip and take)
             filtered = filtered
-                        .Skip((CurrentPage - 1) * PageSize)
-                        .Take(PageSize)
-                        .ToList();
+                .Skip((CurrentPage - 1) * PageSize)
+                .Take(PageSize)
+                .ToList();
 
+            // Convert the data to the table model (ClassInformationTable)
             ClassList = filtered.Select(c => new ClassInformationTable
             {
                 Id = c.Id,
@@ -60,61 +59,72 @@ namespace RazorPages.Pages
             }).ToList();
         }
 
-        public IActionResult OnPostAdd()
+
+        // OnPostAdd method remains the same
+// In Index.cshtml.cs
+        public async Task<IActionResult> OnPostAddAsync()
         {
             if (!ModelState.IsValid)
             {
-                return Page();
+                return Page();  // If the model is invalid, re-render the page with error messages
             }
 
-            var newEntry = new ClassInformationModel
+            var newClass = new Class
             {
-                Id = ClassInformationModel.GetNextId(),
                 ClassName = NewClass.ClassName,
                 StudentCount = NewClass.StudentCount,
                 Description = NewClass.Description
             };
 
-            _classList.Add(newEntry);
-            
-            var cookieOptions = new Microsoft.AspNetCore.Http.CookieOptions
-            {
-                Expires = DateTimeOffset.UtcNow.AddMinutes(30),
-                HttpOnly = true,
-                Secure = true,
-                SameSite = Microsoft.AspNetCore.Http.SameSiteMode.Strict
-            };
+            // Add the new class to the database
+            _context.Classes.Add(newClass);
 
-            Response.Cookies.Append("username", "sampleUser", cookieOptions);
-            Response.Cookies.Append("role", "admin", cookieOptions);
-            Response.Cookies.Append("isActive", "true", cookieOptions);
-            Response.Cookies.Append("createdAt", DateTime.UtcNow.ToString("o"), cookieOptions);
-            
-            return RedirectToPage();
+            // Save changes to the database
+            await _context.SaveChangesAsync();
+
+            return RedirectToPage();  // Redirect to refresh the page and show the updated list
         }
 
-        public IActionResult OnPostDelete(int id)
+
+                // OnPostDelete method remains the same
+        public async Task<IActionResult> OnPostDeleteAsync(int id)
         {
-            var item = _classList.Find(c => c.Id == id);
-            if (item != null)
+            var classToDelete = await _context.Classes.FindAsync(id);
+            if (classToDelete != null)
             {
-                _classList.Remove(item);
+                _context.Classes.Remove(classToDelete);  // Remove the class from the database
+                await _context.SaveChangesAsync();  // Save changes to the database
             }
 
-            return RedirectToPage();
+            return RedirectToPage();  // Redirect to refresh the page
         }
 
-        public IActionResult OnPostEdit(int id, string ClassName, int StudentCount, string Description)
+
+        // OnPostEdit method remains the same
+        public async Task<IActionResult> OnPostEditAsync(int id)
         {
-            var item = _classList.FirstOrDefault(c => c.Id == id);
-            if (item != null)
+            var classToEdit = await _context.Classes.FindAsync(id);
+            if (classToEdit != null)
             {
-                item.ClassName = ClassName;
-                item.StudentCount = StudentCount;
-                item.Description = Description;
+                // Update the class properties
+                classToEdit.ClassName = NewClass.ClassName;
+                classToEdit.StudentCount = NewClass.StudentCount;
+                classToEdit.Description = NewClass.Description;
+
+                await _context.SaveChangesAsync();  // Save changes to the database
             }
 
-            return RedirectToPage();
+            return RedirectToPage();  // Redirect to refresh the page
         }
+
+
+        // Constructor (ensure correct constructor for dependency injection)
+        public IndexModel(SchoolDbContext context)
+        {
+            _context = context;
+        }
+
+        // List of Classes fetched from the database
+        public IList<Class> IListClass { get; set; }
     }
 }
