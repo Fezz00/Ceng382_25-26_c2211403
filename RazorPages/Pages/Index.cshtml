@@ -42,6 +42,8 @@ else
     <tbody>
         @foreach (var item in Model.ClassList)
         {
+            if(item.isActive != false){
+
             <tr>
                 <form method="post">
                     <input type="hidden" name="id" value="@item.Id" />
@@ -61,6 +63,7 @@ else
                     </td>
                 </form>
             </tr>
+            }
         }
     </tbody>
 </table>

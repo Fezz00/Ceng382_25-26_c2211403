@@ -27,9 +27,9 @@ namespace RazorPages.Pages
 
         public int TotalPages { get; set; }
 
-        public List<ClassInformationTable> ClassList { get; set; } = new List<ClassInformationTable>();
+        public List<Class> ClassList { get; set; } = new List<Class>();
 
-        private static List<ClassInformationModel> _classList = new List<ClassInformationModel>();
+        private static List<Class> _classList = new List<Class>();
 
         // OnGetAsync method should be correctly implemented
         public async Task OnGetAsync()
@@ -50,12 +50,13 @@ namespace RazorPages.Pages
                 .ToList();
 
             // Convert the data to the table model (ClassInformationTable)
-            ClassList = filtered.Select(c => new ClassInformationTable
+            ClassList = filtered.Select(c => new Class
             {
                 Id = c.Id,
                 ClassName = c.ClassName,
                 StudentCount = c.StudentCount,
-                Description = c.Description
+                Description = c.Description,
+                isActive = c.isActive
             }).ToList();
         }
 
@@ -92,7 +93,8 @@ namespace RazorPages.Pages
             var classToDelete = await _context.Classes.FindAsync(id);
             if (classToDelete != null)
             {
-                _context.Classes.Remove(classToDelete);  // Remove the class from the database
+                classToDelete.isActive = false;
+                //_context.Classes.Remove(classToDelete);  // Remove the class from the database
                 await _context.SaveChangesAsync();  // Save changes to the database
             }
 

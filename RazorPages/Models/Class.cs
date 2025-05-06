@@ -10,5 +10,6 @@ public class Class {
     [Required]
     public int? StudentCount { get; set; }
     public string? Description { get; set; }
+    public bool isActive { get; set; } = true;
   }
 }
