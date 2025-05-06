@@ -13,3 +13,5 @@ public class Class {
     public bool isActive { get; set; } = true;
   }
 }
+
+//Feza
